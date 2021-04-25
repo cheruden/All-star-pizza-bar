@@ -12,7 +12,7 @@ h5 {
 }
 
 .landing {
-    background-image: url("../images/slider2.jpg");
+    background-image: url("./images/arrow.ico");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
